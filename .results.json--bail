@@ -1,0 +1,144 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 7,
+    "passes": 7,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-03-26T22:43:40.687Z",
+    "end": "2023-03-26T22:43:40.934Z",
+    "duration": 247
+  },
+  "tests": [
+    {
+      "title": "has a DOCTYPE tag",
+      "fullTitle": "index.html valid document structure has a DOCTYPE tag",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has opening and closing HTML tags",
+      "fullTitle": "index.html valid document structure has opening and closing HTML tags",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has <head> and <body> tags nested in the <html> tag",
+      "fullTitle": "index.html valid document structure has <head> and <body> tags nested in the <html> tag",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a language attribute in the <html> tag",
+      "fullTitle": "index.html valid document structure has a language attribute in the <html> tag",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <link> tag that links to an external stylesheet",
+      "fullTitle": "index.html valid <head> structure has a <link> tag that links to an external stylesheet",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <title> tag to enclose the site title",
+      "fullTitle": "index.html valid <head> structure has a <title> tag to enclose the site title",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a valid HTML structure",
+      "fullTitle": "index.html valid html has a valid HTML structure",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 218,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a DOCTYPE tag",
+      "fullTitle": "index.html valid document structure has a DOCTYPE tag",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has opening and closing HTML tags",
+      "fullTitle": "index.html valid document structure has opening and closing HTML tags",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has <head> and <body> tags nested in the <html> tag",
+      "fullTitle": "index.html valid document structure has <head> and <body> tags nested in the <html> tag",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a language attribute in the <html> tag",
+      "fullTitle": "index.html valid document structure has a language attribute in the <html> tag",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <link> tag that links to an external stylesheet",
+      "fullTitle": "index.html valid <head> structure has a <link> tag that links to an external stylesheet",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <title> tag to enclose the site title",
+      "fullTitle": "index.html valid <head> structure has a <title> tag to enclose the site title",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a valid HTML structure",
+      "fullTitle": "index.html valid html has a valid HTML structure",
+      "file": "/home/jerryk/Development/Code/Prework/phase-0-html-document-structure-lab/test/indexTest.js",
+      "duration": 218,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ]
+}
